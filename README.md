@@ -103,6 +103,3 @@ The project models warehouses, shipments, cargo containers, product transformati
 └── transfer
     └── DockTransfer.java
 ```
-
-## Author
-**Vladyslav Mekh**
