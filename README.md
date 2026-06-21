@@ -105,4 +105,4 @@ The project models warehouses, shipments, cargo containers, product transformati
 ```
 
 ## Author
-*Vladyslav Mekh*
+**Vladyslav Mekh**
